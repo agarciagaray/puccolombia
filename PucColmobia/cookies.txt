@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.innuo.com.co	TRUE	/	FALSE	1999999999	_shopify_essential	:AZjEQhtjAAEAz4-nX6obGSZC4vROqqUOjhf5nqZ5xMhE10MaQt8iiBpz9frYczS3Qn9hxKiPqyKtfbn6DjMQCGlWuYz4XkKZxV4RdyR9OwU6FBAePhuy9yJ-Igs9:
+www.innuo.com.co	TRUE	/	FALSE	1999999999	Priority	High
+www.innuo.com.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+innuo.com.co	TRUE	/	FALSE	1999999999	_shopify_essential	:AZjEQh3XAAEAkS68CkfHN-WiLzZHK8wfwji9BoCJMdzy-DZgyJ1CDXbKdFxtqlTs5z_Tnp6wmdmDmXI-tX9fEqGUgVp4IQ:
+innuo.com.co	TRUE	/	FALSE	1999999999	Priority	High
+innuo.com.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+
